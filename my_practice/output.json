@@ -1,0 +1,188 @@
+[
+    {
+        "sample": {
+            "material": {
+                "chemicalFormula": "a1a2a3", 
+                "condition": [
+                    {
+                        "scalar": "aaa", 
+                        "name": "Structure"
+                    }, 
+                    {
+                        "scalar": "Single Crystal", 
+                        "name": "Crystallinity"
+                    }, 
+                    {
+                        "scalar": "Cubic", 
+                        "name": "Crystal System"
+                    }
+                ]
+            }, 
+            "reference": {
+                "doi": "4.1063/1234"
+            }, 
+            "measurement": [
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "2", 
+                        "name": "Bulk Modulus K$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }, 
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "3", 
+                        "name": "Shear Modulus G$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }
+            ]
+        }
+    }, 
+    {
+        "sample": {
+            "material": {
+                "chemicalFormula": "b1b2b3", 
+                "condition": [
+                    {
+                        "scalar": "bbb", 
+                        "name": "Structure"
+                    }, 
+                    {
+                        "scalar": "Single Crystal", 
+                        "name": "Crystallinity"
+                    }, 
+                    {
+                        "scalar": "Cubic", 
+                        "name": "Crystal System"
+                    }
+                ]
+            }, 
+            "reference": {
+                "doi": "44.1063/11223344"
+            }, 
+            "measurement": [
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "22", 
+                        "name": "Bulk Modulus K$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }, 
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "33", 
+                        "name": "Shear Modulus G$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }
+            ]
+        }
+    }, 
+    {
+        "sample": {
+            "material": {
+                "chemicalFormula": "c1c2c3", 
+                "condition": [
+                    {
+                        "scalar": "ccc", 
+                        "name": "Structure"
+                    }, 
+                    {
+                        "scalar": "Single Crystal", 
+                        "name": "Crystallinity"
+                    }, 
+                    {
+                        "scalar": "Cubic", 
+                        "name": "Crystal System"
+                    }
+                ]
+            }, 
+            "reference": {
+                "doi": "444.1063/111222333444"
+            }, 
+            "measurement": [
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "222", 
+                        "name": "Bulk Modulus K$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }, 
+                {
+                    "dataType": "Experimental", 
+                    "property": {
+                        "units": "GPa", 
+                        "scalar": "333", 
+                        "name": "Shear Modulus G$_0$"
+                    }, 
+                    "condition": [
+                        {
+                            "scalar": "Standard", 
+                            "name": "Temperature"
+                        }, 
+                        {
+                            "scalar": "Standard", 
+                            "name": "Pressure"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

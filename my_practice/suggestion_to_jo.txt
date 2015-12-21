@@ -1,0 +1,4 @@
+example csv file
+
+put the full python script at the beginning of the blog
+
