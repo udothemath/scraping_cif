@@ -13,6 +13,8 @@ print name_list
 
 dic_book = {}
 
+print "Hello"
+
 for name in name_list:
 
     # cif name of the materials 
